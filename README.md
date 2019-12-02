@@ -22,6 +22,7 @@ It was uploaded to github-pages using the gh-pages NPM package.
 * 12-Nov-2019 Initial project files created
 * 13-Nov-2019 Initial components created. GH-pages installed and tested.
 * 14-Nov-2019 Project finalized and released.
+* 1-Dec-2019 Cleaned up README.md and fixed error where project files were not in Master branch.
 
 ----
 ## Thanks
