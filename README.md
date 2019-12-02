@@ -1,9 +1,4 @@
 # Clicky-Game
-React Memory Game
-
-## Live Demo
-
-[Click Here for Live Demo](https://happyliltrees.github.io/Clicky-Game/)
 
 ## What is “Clicky Game” ?
 
@@ -17,6 +12,10 @@ It was uploaded to github-pages using the gh-pages NPM package.
 2. To play, the user must not click the same card twice within the same round of gameplay. 
 3. The user's points/streak will increase with each click that doesn't correspond to an already-clicked gameplay component.
 4. If the user clicks an already-clicked component, they will "lose" and their score will reset.
+
+## Live Demo
+
+[Click Here for Live Demo](https://happyliltrees.github.io/Clicky-Game/)
 
 ----
 ## Changelog
