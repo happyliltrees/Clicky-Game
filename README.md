@@ -17,6 +17,10 @@ It was uploaded to github-pages using the gh-pages NPM package.
 
 [Click Here for Live Demo](https://happyliltrees.github.io/Clicky-Game/)
 
+Click below for demo video:
+
+[![Clicky Game Youtube Link](http://img.youtube.com/vi/djSBIBHQWMg/0.jpg)](http://www.youtube.com/watch?v=djSBIBHQWMg "Clicky Game")
+
 ----
 ## Changelog
 * 12-Nov-2019 Initial project files created
